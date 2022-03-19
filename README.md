@@ -12,3 +12,7 @@
 In this session, we will be working on creating a simple HTML/CSS website. The purpose of the walk through is to learn about semantic HTML and how to target classes for styling.
 
 [Check out this link](https://www.w3schools.com/html/html5_semantic_elements.asp) for details on semantic HTML
+
+## Helpful Links
+1. [HTML Semantic Tag Cheatsheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+1. [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
